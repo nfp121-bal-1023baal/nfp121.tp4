@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=IHMQuestion2_2Test_new
+comment1.params=
+comment1.target=void\ setUp()
+comment10.params=
+comment10.target=void\ test_deplacement_vers_A_et_clic()
+comment11.params=
+comment11.target=void\ test_deplacement_vers_B_et_Clic()
+comment12.params=
+comment12.target=void\ test_deplacement_vers_C_et_clic()
+comment2.params=
+comment2.target=void\ tearDown()
+comment3.params=
+comment3.target=void\ test_IHMConforme()
+comment4.params=
+comment4.target=void\ test_clic_bouton_A()
+comment5.params=
+comment5.target=void\ test_clic_bouton_B()
+comment6.params=
+comment6.target=void\ test_clic_bouton_C()
+comment7.params=
+comment7.target=void\ test_deplacement_souris_vers_A()
+comment8.params=
+comment8.target=void\ test_deplacement_souris_vers_B()
+comment9.params=
+comment9.target=void\ test_deplacement_souris_vers_C()
+numComments=13

@@ -28,6 +28,7 @@ public class Pile2<T> implements PileI<T> {
 
     public void empiler(T o) throws PilePleineException {
         if (estPleine()) throw new PilePleineException(o.toString());
+    //    if (o==null) return;
         stk.push(o);
     }
 
